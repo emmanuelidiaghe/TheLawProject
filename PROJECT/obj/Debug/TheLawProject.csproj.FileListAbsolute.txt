@@ -36,6 +36,6 @@ C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\bin\TheLa
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\bin\Microsoft.SqlServer.DmfSqlClrWrapper.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\bin\Microsoft.Web.Infrastructure.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\obj\Debug\TheLawProject.csprojResolveAssemblyReference.cache
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\obj\Debug\TheLawProject.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\obj\Debug\TheLawProject.pdb
+C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\PROJECT\obj\Debug\TheLawProject.csprojResolveAssemblyReference.cache

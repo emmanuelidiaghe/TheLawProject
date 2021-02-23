@@ -9,7 +9,8 @@
 
 
 
-public partial class Login {
+public partial class Login : System.Web.UI.Page
+{
     
     /// <summary>
     /// Head1 control.

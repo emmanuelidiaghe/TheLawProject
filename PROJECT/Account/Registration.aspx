@@ -5,6 +5,7 @@
   
 <html xmlns="http://www.w3.org/1999/xhtml">  
 <head id="Head1" runat="server">  
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../styles.css"/>
     <title>Registration Form</title> 
 </head>
@@ -18,12 +19,12 @@
             </ul>
         </nav>
     </header>
-    <div class="content">
+    <div class="content" runat="server">
         <div class="left-div">
             <h2 class="phone-numbers">The Law Chambers...</h2><br />
             <p>Having issues with the page? Reach us:</p>
             <p>customercare@support.com</p>
-        </div>
+        </div><br />
         <div class="right-div">
             <form id="register_form" runat="server">
                 <asp:ScriptManager ID="ScriptManagerReg" runat="server" />

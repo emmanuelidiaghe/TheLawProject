@@ -9,7 +9,8 @@
 
 
 
-public partial class Registration {
+public partial class Registration : System.Web.UI.Page
+{
     
     /// <summary>
     /// Head1 control.
