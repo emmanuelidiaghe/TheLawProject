@@ -28,13 +28,5 @@ C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\TheLawProject
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\Microsoft.SqlServer.DmfSqlClrWrapper.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\Microsoft.Web.Infrastructure.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\EntityFramework.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.Core.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\obj\Debug\TheLawProject.csprojResolveAssemblyReference.cache
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\obj\Debug\TheLawProject.dll
 C:\Users\Emancipator\Desktop\WEB DEV\PROJECTS\C#\TheLawProject\obj\Debug\TheLawProject.pdb
